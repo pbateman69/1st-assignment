@@ -1,0 +1,266 @@
+.header{
+    background-image: url(./css/banner3.png);
+    width: 1600px;
+height: 808px;
+
+}
+.title{
+   position: relative;
+   top: 30%;
+   right: 10%;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+color: #FFFFFF;
+
+}
+.paragraph{
+    position: relative;
+   top: 30%;
+   right: 10%;
+   
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+
+color: #FFFFFF;
+}
+.button{
+    position: relative;
+    
+   top: 35%;
+   left: 75%;
+    width: 177px;
+height: 67px;
+background: #FFFFFF;
+border-radius: 5px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align:center;
+padding: 5px;
+border-color: #FFFFFF;
+
+color: #005FAC;
+}
+.parent{
+    display: flex;
+    width: 1056px;
+height: 723.3px;
+position: relative;
+left: 189px;
+top: 300px;
+}
+.h2{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #151414;
+
+}
+.short-text{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: #444343;
+}
+.tick{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+list-style: none;
+
+}
+.my-plans{
+    position: relative;
+    top: 400px;
+    left: 700px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+
+color: #151414;
+}
+.img-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: 400px;
+}
+.caption{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #151414;
+}
+.fig{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #737272;
+}
+.watch{
+    position: relative;
+    top: 500px;
+    left: 200px;
+    background: linear-gradient (60deg, #005FAC 5%, rgba(90, 95, 172, 95) 80%);
+    width: 1140px;
+height: 300px;
+   
+border-radius: 8px;
+}
+.btn{
+    position: relative;
+    bottom: 250px;
+    left: 30px;
+    width: 160px;
+height: 64px;
+padding: 10px;
+background: #FFFFFF;
+border-color: #FFFFFF;
+border-radius: 3px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #005FAC;
+
+}
+.watch-text{
+    position: relative;
+    bottom: 250px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+}
+.conclusion-end{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #151414;
+    position: relative;
+    top: 700px;
+    width: 1600px;
+height: 577px;
+    
+}
+.part-1{position: relative;
+    top: 100px;
+    right: 500px;
+}
+.future{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+
+color: #F8F8F8;
+}
+.comment{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: #FFFFFF;
+}
+.h3{
+    padding: 5px;
+    position: relative;
+    left: 1000px;
+    bottom: 350px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+.email{
+    position: relative;
+    left: 1000px;
+    bottom: 350px;
+    width: 250px;
+height: 40px;
+border-radius: 10px;
+background-color: black;
+border: 1px solid white;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #F3F3F3;
+text-align: left;
+
+
+}
+.Subscribe{
+    position: relative;
+    left: 750px;
+    bottom: 290px;
+    width: 140.11px;
+height: 45px;
+padding: 5px;
+background: #005FAC;
+border-radius: 4px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+border: 1px solid gray;
+color: #FFFFFF;
+
+    
+    
+}
